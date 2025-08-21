@@ -2,3 +2,4 @@ printer-*
 *.tmp
 fluidd.cfg
 mainsail.cfg
+*.bkp
