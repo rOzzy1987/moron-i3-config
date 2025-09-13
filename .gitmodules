@@ -1,3 +1,6 @@
 [submodule "jschuh-macros"]
 	path = jschuh-macros
 	url = https://github.com/jschuh/klipper-macros
+[submodule "lcd_menu"]
+	path = lcd_menu
+	url = https://github.com/dasburninator/klipper_lcd_menu
